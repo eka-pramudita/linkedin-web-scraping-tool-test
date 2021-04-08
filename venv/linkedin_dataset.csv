@@ -1,0 +1,600 @@
+,Job Title,Company Name,Job Posting Time,Number of Applicants,Seniority Level,Size of Employee,Company Industry,Detail Description,Employment Type,Job Function
+0,Data Science Lead,Tokopedia,15 hours ago,Be among the first 25 applicants,Mid-Senior level,,Internet,"Job Description:
+Engaging with business teams to identify and understand problems faced by the business that could be solved using data science
+Break down business problems and identify how data science can be used to solve them
+Lead a small team to research into the relevant approaches and support their implementation
+Solve the technical challenges
+Identify the impact of data science solutions and create metrics to measure them
+Presenting crafted solutions and proposals to critical stakeholders such as upper management and Leaders in different departments
+Designing, building and maintaining data science solutions
+Requirements:
+Bachelors in Math, Statistics, Computer science, or Engineering
+Experience in data science for 4 years
+1-2 years with a managerial role in data science
+Hands-on experience in python, and SQL
+Experience in building end-to-end Machine Learning models, using architectures such as random forests, gradient-boosted trees, and neural networks
+Experience at least one of the following areas is a plus:
+Big data tools in cloud computing such as dataproc, spark, big query, redshift, etc.
+Natural Language Processing,
+Computer Vision
+Fraud detection
+Time-series analysis and modelling
+Collaborative team player",Full-time,"Analyst, Science"
+2,Data Scientist Lead,tiket.com,23 hours ago,48 applicants,Mid-Senior level,,Information Technology and Services,"Job Overview
+The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms, and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+ 
+Job Descriptions:
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques, and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+ 
+Requirements:
+Strong problem-solving skills with an emphasis on product development.
+Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+We’re looking for someone with 5-7 years of experience manipulating data sets and building statistical models, has a Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field",Full-time,"Finance, Accounting/Auditing, Administrative"
+3,Sr. Data Scientist - CVM,PT. XL Axiata Tbk,6 hours ago,Be among the first 25 applicants,Associate,,"Telecommunications, Internet, Computer & Network Security","Roles :
+Lead the development of predictive customer analysis (specifically propensity modelling) for use in Dynamic Pricing & Customer Experience Management.
+Execute predictive data modelling and analytics to support CLM planning and decision making. Lead the development of behavioural models from concept to deployment and revenue realisation. 
+Define and direct input to CVM operations team to change adaptive models and direct changes to decision frameworks for inbound marketing and retention activity ""Act as owner of the models ensuring any operational issues are communicated to stakeholders and addressed in a timely manner
+Perform regular performance reviews of predictive models performance ensuring models are re-scored as appropriate.
+Lead the evaluation of new modelling tools making recommendations to the capability manager""           
+Develop segmentation of data and predictive models derived from customer related data in order to support commercial decision making.
+Define the Analytical Data Set needed for solving business problems and collects customer related data to support the determination the development of data model         
+Develop segmentation of data and predictive models derived from customer related data in order to support commercial decision making.     
+Evaluate CLM data management in XL Axiata organization   
+Develop database, data dictionary and data map which details relevant information for CLM activities         
+Evaluate CLM data management in XL Axiata organization
+Requirements:
+Bachelor's Degree
+Min. 6 years relevant experience in Commercial / marketing analytics / customer lifetime value management / product sales & marketing   
+5yrs+ in Telco CVM Analytics will be preference
+Proven thought leader in model development & link to commercial results
+Extremely skilled in (at least) SPSS Modeller, SAS, Tableau or similar""",Full-time,"Analyst, Marketing, Business Development"
+4,Data Scientist - QuantumBlack,QuantumBlack,4 days ago,60 applicants,Executive,,"Computer Software, Information Technology and Services","Apply Now
+Qualifications
+Bachelor or MSc or PhD level degree in a discipline such as computer science, machine learning, applied statistics, mathematics or engineering. 
+Ability to write clean, maintainable, and robust code in Python 
+Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields 
+Methodical yet creative problem solver 
+Experience in applying data science and machine learning methods to real world problems
+Who You'll Work With
+As a data scientist at QuantumBlack in Jakarta you can expect
+Your colleagues
+Work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using maths, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.
+Who You Are
+You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.
+Our Tech Stack
+While we advocate for using the right tech for the right task, we often leverage the following technologies Python, PySpark, TensorFlow, PyTorch, SQL, Airflow, Databricks, our own OSS called Kedro (check out a Kedro tutorial video here), container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure, and more!
+What You'll Do
+As a Data Scientist at QuantumBlack you can expect...
+Your responsibility
+You will partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions 
+You will be flexible to travel to our clients’ offices to deliver presentations, gather information or share knowledge 
+You will contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and client 
+You will translate business problems into analytical problems and develop models aimed at solving our clients and users problems and ensure they are evaluated with the relevant metrics
+You will write highly optimized code to advance our internal Data Science Toolbox
+You will add real-world impact to your academic expertise, as you are encouraged to write papers and present at meetings and conferences should you wish
+You will take part in R&D projects (video R&D at QuantumBlack); attend conferences such as NIPS and ICML as well as data science retrospectives where you will have the opportunity to share and learn from your co-workers
+Work in one of the most advanced data science teams globally 
+What You'll Benefit From
+Real-World Impact
+ – No project is ever the same, we work with top-tier clients across multiple sectors, providing unique learning and development opportunities internationally. 
+Fusing Tech & Leadership
+ – We work with the latest technologies and methodologies and offer first class learning programmes at all levels. 
+Multidisciplinary Teamwork
+ - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance. 
+Innovative Work Culture
+ – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions. 
+Striving for Diversity
+ – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life. 
+Continuous development and progression
+ – We offer an extensive choice of training sessions, ranging from workshops to international conference, tailored to your needs as well as a personal mentorship system. We have multiple career paths and geographic locations to evolve within the Firm. 
+Global community
+ – you'll learn from colleagues around the world by connecting both internally and externally through our various hosted meet-ups.",Full-time,"Consulting, Information Technology, Analyst"
+5,Data Scientist - Remote,FNA,3 weeks ago,115 applicants,Executive,,"Information Technology and Services, Computer Software, Financial Services","Title: Data Scientist
+Location: Remotely from Asia Pacific
+What you'll be doing
+As Data Scientist at FNA, you will accelerate the development of our award-winning analytics software while implementing and delivering important data science solutions for some of the world's largest and most influential institutions.
+Apply your curiosity of machine learning and network science whilst working with a selective team of brilliant data scientists who challenge the status quo daily and are quietly pushing forward the bleeding edge of analytics with our advanced analytics platform.
+Actively participate as a contributing member on a team of data scientists through the whole workflow from data access, processing and modeling, to data visualization 
+Partner with internal FNA stakeholders and client subject matter experts to refine analyses, gain insights and present new findings
+Develop and present client specific solutions clearly and concisely, communicate analyses, recommendations, status and results to existing clients and prospects at business management and executive level
+Operationalize models into production with the FNA Platform
+Carry out research and development of new use-cases, algorithms and solutions - either as part of our product road-map or based on specific client requirements
+Act as product owner for specific features or models implemented in the FNA Platform
+Resolve client support requests in a professional and timely manner
+Who we’re looking for
+The right candidates will have at minimum 2+ years experience as a Data Scientist in commercial or academic projects applying Network Science & Machine Learning models and presenting your results to stakeholders
+You should be a team player who picks up implicit tasks, is self-organized and self-motivated, embraces autonomy and working remotely but enjoys the occasional travel to interface with clients for implementations, training and use case exploration
+The right candidate is naturally inquisitive with the ability to communicate technical findings to non-technical personnel and isn’t afraid to present creative, data-driven ideas to stakeholders
+Passion and curiosity for what is happening within RegTech/FinTech/SupTech, Cybersecurity and Cyber Threat Intelligence, Graph Databases and especially Graph Theory/Network Scienc
+Efficiently balances accuracy and speed while getting things done 
+You're a team player with tenacity underpinned by self-awareness and empathy
+Fluent written and spoken English. Additional languages are a benefit 
+Ability to travel approximately 25% of the time (Domestic and International) 
+Nice To Haves:
+BA, MS or PhD level qualification in mathematics, economics, finance, statistics, physics, engineering or related applied quantitative field
+Bi-lingual business-level language capability 
+About FNA
+Founded in 2014, our mission has been to make the financial system safer and more efficient.
+Working with the world’s largest central banks and financial institutions, our technology enables them to uncover hidden connections in large complex datasets, visualize them via interactive dashboards and use artificial intelligence to predict and reduce the impact of anomalies and stress events within their networks.
+Demand for our technology and experience has grown considerably as organizations realize the interconnected nature of their systems. As a result, we’ve spent the last 12 months expanding our team significantly to serve our customer base and boost our brand.
+Benefits Of Joining FNA
+Work with unique and large data sets in projects with demanding intellectual challenges 
+Contribute to FNA’s mission of making the financial system safer and more efficient
+Freedom of work with our ""Remote First"" culture and periods of intense collaboration on off-sites or client sites
+Rapidly advance your career, thinking and skills in a high growth tech company
+Be part of a wave that is changing how organizations and societies make decisions
+Enjoy working with a team of collaborative, brilliant, passionate, hard-working & humble colleagues
+Collaborate with top universities though our Academic Outreach Program and publish papers stemming from your projects at FNA
+Annual stipend for continuing education
+Twice per year company trips to very cool locations for all team off-sites; when travel is safe
+You will own projects from end to end, stamp your name to important work and document use cases in technical reports, white papers, etc. 
+Powered by JazzHR
+Rd28aJwfnK",Full-time,"Engineering, Information Technology"
+6,Data Scientist - Sayurbox,None,2 weeks ago,Be among the first 25 applicants,Entry level,,"Computer Software, Internet, Consumer Goods","Sayurbox is a provider of fresh produce to household (B2C) and restaurants (B2B).
+Our vision is to make fresh produce and products from farms and producers available and accessible to everyone, along with our missions (i) To be the go-to fresh produce platform and ecosystem, (ii) Innovative and top class customer experience, and (iii) Improve efficiency and transparency in the agri-supply chain. However, it is always a work in progress to seek further potential and challenge.
+Position Job Scope Including, But Not Limited To
+Build Sayurbox data team according to targeted business growth and requirements
+Identify and prioritize user data requirements from all departments to create clean dashboard for analysis
+Evaluate and build reliable and scalable data infrastructure
+Build Sayurbox prediction model and engine
+Qualification Requirements
+Have an experience in same field for min 2 years
+Bachelor Degree from Computer Science/Mathematics/Engineering
+Skill Requirements
+Cooperative person and can thrive in team driven
+Good interpersonal and communication skill to address technical problem early in the process
+Natural born leader and willingness to lead when you see something can be done better
+ Inspired and driven, volunteer to enhance things without being asked first
+Love being in startup environment and work at fast pace
+ Able to manage yourself and time during development sprint, know how to set priority
+You are ready to step up when the team really need it and do whatever it takes to complete deliverables
+Open minded, appreciate differentiation of background, social, culture and personalities
+Powered by JazzHR",Full-time,"Engineering, Information Technology"
+7,Data Science Consultant,Accenture Southeast Asia,19 hours ago,25 applicants,Mid-Senior level,,"Information Technology and Services, Computer Software, Financial Services","Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries – powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 505,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com.
+Job Description
+Your client’s eyes probably glaze over when you discuss in detail logistic regression, cluster analysis, neural nets and other segmentation models, but they certainly appreciate your uncanny ability to utilize those to lower their marketing costs and improve marketing effectiveness. Or perhaps they rely on you to provide analytics that stimulate sales, strengthen customer loyalty and generate purchases. If you’ve earned a reputation for your analytics expertise, Accenture may be the perfect place to take the next step in your career journey.
+Your Role
+Data Scientist
+As a Data Science professional, the individual will help drive sales and solutioning of data science/analytics engagements, manage and/or supervise project delivery, mentor teams, build new capabilities, support/contribute to thought leadership and building new skills. The candidate should be able to seamlessly work with Client teams in positioning data science/analytical capabilities and with help of them drive an deliver data science/analytics engagement.
+The successful candidate should have strong consultative, business and communication skills in addition to quantitative ability. As well as be exposed to the challenges of using statistics in a business setting, such as incomplete data, biased data, large data sets, low signal-to-noise ratios, high variance and multiple objective functions. Requires being creative and resourceful and will utilize traditional statistical methodologies as well as newer techniques from computational statistics and data mining and big data capabilities.
+YOUR EXPERIENCE:
+ 
+Degree in a relevant field like statistics, computer science or applied maths, physics or relevant subjects or 3+ years of experience in computer science, applied mathematics, or other quantitative/computational discipline. 
+Strong background in statistical concepts and calculations 
+3+ years of experience with real data 
+Innovative and strong analytical and algorithmic problem solvers 
+3+ years of experience with scripting languages (e.g., Python, Ruby, Perl, Bash) for orchestration and data manipulation 
+3+ years of experience with statistical computing tools like R, SAS, and SPSS 
+Data engineering experience, including SQL and experience manipulating structured and unstructured data sources for analysis.
+External Qualifications
+ 
+Experience in one or more statistical software packages such as R, SAS, SPSS, etc 
+Experience in one or more programming languages such as Python, R, etc 
+Experience in one or more machine learning solutions such as TensorFlow, IBM Watson, etc 
+Experience in one or more tools for visualization such as Tableau, Qlik, D3, etc 
+Good understanding of statistical modelling and machine learning 
+Good understanding of machine learning techniques such as Neural Networks, Random Forest, etc 
+Ability to meet travel requirements, when applicable 
+Have a minimum of 3-5 years in relevant experience 
+Have a minimum of Bachelor degree
+Professional Skill Requirements
+ 
+Proven success in contributing to a team-oriented environment 
+Proven ability to work creatively and analytically in a problem-solving environment 
+Desire to work in an information systems environment 
+Excellent leadership, communication (written and oral) and interpersonal skills
+Entry or junior level positions
+ are also available for candidates with less experience.
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.",Full-time,"Design, Information Technology"
+8,Data Scientist,Cermati.com,1 month ago,151 applicants,Mid-Senior level,,"Information Technology and Services, Internet, Financial Services","Company Description
+Cermati is a financial technology (fintech) startup based in Indonesia. Cermati simplifies the process of finding and applying for financial product by bringing everything online so people can shop around for financial products online and can apply online without having to physically visit a bank.
+Our team hailed from Silicon Valley Tech companies such as Google, Microsoft, LinkedIn and Sofi as well as Indonesian startups such as Doku, Touchten. We have graduates from well known universities such as Universitas Indonesia, ITB, Stanford, University of Washington, Cornell and many others. We are building a company with the same culture of openness, transparency, drive and meritocracy as Silicon Valley companies. Join us in our cause to build a world class fintech company in Indonesia.
+Job Description
+Analyze data to bring insights that can help solve problem or prevent future problem to arise - 
+Create hypothesis and test hypothesis using our data. If we don't have the data, propose a way to capture and extract the needed data to stakeholders. 
+Train data model based on our current data 
+Define and monitor key metrics and alert the business on potential issues.
+Analyze operational efficiency and build business models to guide decision-making. 
+Design market/business intelligence reports and performance measurement dashboards. 
+Enhance our data infra, analyze large, complex data sets into actionable insights.
+Qualifications
+At least a Bachelor degree in computing intensive subjects, e.g. finance, financial mathematics, computer science, mathematics, physics, bio-informatics, engineering 
+Knowledgeable in SQL, data visualization using tools like Tableau and can code basic Python/R 
+Advanced statistics knowledge 
+Unafraid to deal with large, dirty, and messy data and can create ETL to clean and make the data workable - Amazing problem solver 
+Experienced in using advanced analytics/machine learning in the real world scenario
+Past participation in science Olympiad or Kaggle is a plus",Full-time,"Engineering, Information Technology"
+9,Data Scientist,Mamikos.com,3 weeks ago,137 applicants,Associate,,Internet,"Job Requirements:
+Bachelor Degree in Computer Science, IT, Mathematics or related field
+Minimum 2-3 year experience as a Data Scientist
+Expert proficiency in Python, C++, Java, R, and SQL
+Analytical mind and business acumen
+Strong math skills (e.g. statistics, algebra)
+Has experience/ knowledge in predictive modelling/ operation research/ revenue optimization
+Excellent analytical and problem-solving skills
+Good communication and collaboration skill
+Passionate about the startup, innovation, and technology
+Adaptable to a dynamic environment and fast-paced environment and changing requirements
+Job Description:
+Undertaking data collection, preprocessing, and analysis of data
+Extending the company’s data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Analyze large amounts of information to discover trends and patterns
+Propose solutions and strategies to business challenges",Full-time,"Engineering, Information Technology"
+10,Data Science Graduate Program,PT Bank Sinarmas Tbk,2 weeks ago,Over 200 applicants,Associate,,Banking,"Qualification :
+Minimum Bachelor's Degree (3.00 GPA) majoring in Mathematics or Statistics
+Max 2 year of experience
+Fresh Graduate are highly welcome for this programme
+Have a basic knowledge of Phyton, R, MySQL, and Minitab
+Able to work individually or in Team",Full-time,Information Technology
+11,Senior Data Scientist,PT. Yuinsight Technologies International,1 week ago,Be among the first 25 applicants,Mid-Senior level,,"Information Technology and Services, Financial Services, Banking","PT. Yuinsight Technologies is subsidiary in Indonesian of Yusys Technologies Co., Ltd, which is a listed company in China stock market. 
+According to the IDC report, Yusys has ranked first in China's banking IT solutions market for six consecutive years since 1999. And it has always maintained a leading position in online banking, credit management, business intelligence and risk management. Meanwhile, Yusys also boasts industry-leading products in customer relationship management, mobile finance, call center, counter trading and system value-added services, and keeps a strong growth momentum. As a leader in China's banking IT solutions market, Yusys is an IT supplier with the most complete product types, the highest degree of specialization and the most brand influence.
+As one of the largest providers of bank IT solutions in China, Yusys is mainly engaged in providing bank-oriented financial institutions and financial technology with information services, such as consulting, software products, software development and implementation, operation and maintenance, and system integration. 
+Headquartered in Beijing, Yusys has established 21 years and has 27 holding subsidiaries include in Hongkong, Singapore, Malaysia and Indonesia, and 11 equity participation enterprises, with total number of employees reaching over 10,000
+Responsibilities:
+Acquire data from primary or secondary data sources and maintain databases/data systems;
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
+Perform detailed data analysis across multiple data sources to meet risk management requirements;
+Identify relevant data insights and interpret data, analyze results using statistical techniques to make sound decisions;
+Identify patterns and trends in data sets, define new data collection and analysis processes, work alongside teams within the business or the management team to establish business needs.
+ 
+Requirements:
+3-8 years experiences in banking or financial services industry;
+Possess good understanding and experience in data analysis, data management process and business intelligence application;
+General awareness of related technology trend;
+Proficient in SQL is a must, familiar with data analysis tools (python, R and MS Excel) is a plus;
+Good communication, elaboration and presentation skills (English, or if possible Mandarin);
+Bachelors/University degree and above.",Full-time,Information Technology
+12,Senior Data Scientist - BI,Bukalapak,2 weeks ago,37 applicants,Mid-Senior level,,Information Technology and Services,"Bukalapak is currently working remotely due to COVID-19. So, this role doesn’t require you to move at the time being.
+Job Description
+Driving the team to create world-class actionable insights
+Continuously increasing the quality of our dashboard and reporting
+Be the benchmark of BI capability and set the standard for the company
+Actively maintain large scale collaboration with internal and external parties that will benefit the whole company
+Creating continuous improvement and better management of dependencies and integration with other teams and functions
+Requirements
+MS in a technical field, PhD Preferred. Formal advanced education in machine learning, AI, computer science, engineering preferred.
+6+ years of experience in Data Science, Business Analytics, Business Intelligence, or related technical field working as Data Scientist
+Business savviness to generate and present insights to senior stakeholders
+Innovate using BI to produce industry leading Insight generation processes
+Expert with various BI technology, and ability to design and implement a BI platform to process large Datasets
+Past experience in e-commerce platforms will be highly valuable",Full-time,"Information Technology, Engineering, Research"
+13,Senior Data Scientist,BAT,3 days ago,29 applicants,Associate,,"Consumer Goods, Tobacco","BAT is evolving at pace - truly like no other organisation. 
+To achieve the ambition, we have set for ourselves, we are looking for colleagues who are ready to live our ethos every day. Come be a part of this journey!
+BAT INDONESIA IS LOOKING FOR A DATA SCIENTIST
+SENIORITY LEVEL 
+Mid Senior Level
+FUNCTION 
+ Marketing
+LOCATION 
+Jakarta
+ROLE POSITIONING AND OBJECTIVES
+This is an exciting new opportunity for a Data Scientist who is passionate in delivering impact through analytics. The Data Scientist will be responsible for crafting and building ML models in the cloud using advanced analytics algorithms/techniques to make predictions, optimization and answer key business questions as well as solving complex business problems in digital environment.
+ Reports to 
+Head of Digital Insights
+Reporting Level 
+Individual Contributor
+Geographic Scope 
+Local
+What You Will Be Accountable For
+Drive analytics use cases including, but not limited to consumer acquisition, consumer retention, consumer experience, product development, pricing optimization and service perfection etc.
+ 
+Identify, extract and cluster offline and online data across multi data sources in large-scale environments for analytics use cases.
+ 
+Analyse, model and interpret large datasets of structured, semi/unstructured data using sophisticated analytics techniques to perform analysis.
+ 
+Build machine learning models, pipelines and own data-related productions based on identified analytics use cases.
+ 
+Evaluate and present machine learning models results, key insights and recommendations for market test, including model fine-tuning exercise.
+ 
+Prepare for machine learning models deployment including leads generation, automation and optimization for market test and roll out.
+Essential Experience, Skills And Knowledge
+3 or more years of professional experience in data science roles applying machine learning and data mining techniques to real problems with copious amounts of data.
+ 
+Ability to independently own and drive model development with E2E data science development and deployment cycle.
+ 
+Ability to prototype statistical analysis and modelling algorithms and apply these algorithms for data driven solutions to problems in digital business.
+ 
+Programming Language Python, R, SQL, SAS, Scala, JavaScript and Julia.
+ 
+Mathematical Foundation Exponents, Logarithms and Natural Log Functions.
+ 
+Statistical Techniques Probability, Distribution, Sampling, Inferential Statistics and Hypothesis Testing.
+ 
+Machine Learning Algorithms (Supervised and Unsupervised) Linear Regression, Logistic Regression, GLMs, Bayesian, Clustering, Random Forests, Neural Networks.
+ 
+Platform Customer Data Platform (CDP) Management, Analytics Data Mart (ADM) for Consumer Analytics Records (valued).
+ 
+Databases SQL and NoSQL databases, such as Microsoft Azure SQL, Microsoft SQL Server, PostgreSQL, MySQL, Google BigQuery//BigTable (valued).
+ 
+Cloud Azure, Google Cloud Platform (valued).
+BENEFICIAL 
+Pioneering exposure and growth in setting the first digital analytics team at BAT Indonesia
+Good salary package and health benefits
+WE ARE BAT
+At BAT we are committed to our Purpose of creating A Better Tomorrow. This is what drives our people and our passion for innovation. 
+See what is possible for you at BAT.
+Global Top Employer with 53,000 BAT people across more than 180 markets
+ 
+Brands sold in over 200 markets, made in 44 factories in 42 countries
+ 
+Newly established Tech Hubs building world-class capabilities for innovation in 4 strategic locations 
+ 
+Diversity leader in the Financial Times and International Women’s Day Best Practice winner
+ 
+Seal Award winner - one of 50 most sustainable companies 
+BELONGING, ACHIEVING, TOGETHER
+Collaboration, diversity and teamwork underpin everything we do here at BAT. We know that collaborating with colleagues from different backgrounds is what makes us stronger and best prepared to meet our business goals. 
+Come bring your difference!
+Disclaimer We may not have an open role at this moment. However, as our work environment is very dynamic, we encourage you to apply ahead for this position and our Recruitment Team will contact you soonest a suitable position for your profile made available.",Full-time,"Research, Science"
+14,Lead Data Scientist,Michael Page,4 weeks ago,Be among the first 25 applicants,Associate,,Financial Services,"Lead Data Scientist
+Join one of the fastest growing startup
+Solve real problems for SME sector
+About Our Client
+Our client is one of the fastest growing Fintech startup with focus on the micro-small-medium enterprises (UMKM). They have made it possible for Indonesian SMEs to have a proper financial management with technology revolutions.
+Job Description
+Gather, manage and scrub data collected from various analytic platforms and sources to build quantitative analysis
+ 
+Define problems and hypotheses, develop recommendations, and analyze large amounts of data to discover insights for solving the problems, leading to better business performance
+ 
+Collaborate with fellow Data analytics and other business units to design and deploy data driven solutions with high business value
+ 
+Build and implement continuous improvement to predictive accuracy of models, monitor its performance in production systems
+ 
+Apply best practices in data-driven decision processes through statistical theorems
+ 
+The Successful Applicant
+Min. 5 years of experience in data science, machine learning engineering, modelling, statistics and quantitative analysis
+ 
+Excellent understanding of machine learning algorithms in Python libraries
+ 
+Experience in cloud environment, preferably in Google Cloud
+ 
+Great understanding of linear algebra, multivariate calculus and applied statistics skills, such as distributions, statistical testing, regression, etc.
+ 
+Solid analytical and problem solving skills, with high curiosity and growth mindset
+ 
+Preferably Bachelor or Master's degree in mathematics, computer science, statistics, engineering or similar advanced degree
+ 
+What's On Offer
+Join one of the fastest growing startup
+ 
+Solve real problems for SME sector
+ 
+Highly competitive benefits
+ 
+Contact: Josephine Wiliputri
+Quote job ref: 4186147",Full-time,Other
+15,Data Science Manager (Bangkok based),Agoda,1 week ago,Be among the first 25 applicants,Director,,Internet,"About Agoda
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+Get to Know our Team:
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+The Opportunity:
+We think of Data Science in Agoda differently. For us, a data scientist is a fusion of core production skills with analytic and business skills. We’ve brought top talents from (literally) all over the world who focus relentlessly on building products which utilize ML and AI as their main edge. We know that when you infuse ML and technology, you move from good to great and that is our mission. Our Data Science managers are action driven leaders that can form vivid vision and successfully direct their people to execute it while being strongly rooted in the details and practice.
+As a Data Science Manager, you will:
+Drive the growth of your team and build a diverse, entrepreneurial team.
+ You are a developer of people. You love leading diverse teams of professionals with both qualitative and quantitative backgrounds using data-driven and insights-led approaches to respond quickly in a dynamic, competitive, and fast changing industry.
+Get your hands dirty. 
+Tackle complex problems in the online travel and ecommerce space using a range of ML and data analysis methods. Use our huge data repositories to push our business metrics to their bounds, directly and indirectly. Foster a culture that constantly raises the bar for us and others and supports the freedom to explore and innovate.
+Work on tough problems.
+ Can we detect causation between metrics and bookings? How can automatically answer our users’ questions? How do we tune our AB testing platform to ensure we aren’t optimizing noise? How do we measure experiment success to properly trade off type I and II errors? What is the ideal caching strategy for prices and how do build an ML model to implement it? How can you detect anomalies within more than one million time-series that we track daily? Can you separate between bots and human traffic? Can you make our across-data-centers replication into smart replication using ML models? These are just a few of the diverse questions we tackle and some which you will lead your team to crack. You will be impacting every aspect of the business and it will require various techniques, from diving deep into data with SQL and Big Data tools, all the way to deploying modern machine learning models.
+Deliver results
+. Work directly with the heads of the business departments and the product management team. Influence them with compelling product ideas based on data insights that can move the dial on our business.
+Work in one of Asia’s most vibrant cities.
+ Bangkok provides a setting like no other: edgy, luxurious, impossibly sensorial, endlessly layered. The perfect junction of a globally minded career and the heart of Asian travel.
+In this Role, you’ll get to: 
+ 
+Balance quantitative data analyses with qualitative user insights to uncover how our users book travel to drive new and existing product impact.
+ 
+Build, validate, test, and deploy machine learning or other data science models to predict and influence the behavior of consumers with the goal of optimizing products & processes.
+ 
+Test and validate insights via rapid experimentation and deployment.
+ 
+Interface with business/operation teams and key stakeholders at all levels to formulate solutions & product changes informed by your findings.
+ 
+Leverage data to help the business answer questions around further expansion, products, process optimization, cost optimization, customer acquisition/retention/churn and any other business goals that can be addressed through data insights.
+ 
+Form strong, cross-functional relationships with designers, product managers, software developers, and marketers who build, design, and optimize our technology and tools.
+ 
+What you’ll Need to Succeed:
+ 
+Vast analytical problem-solving capabilities & experience.
+ 
+Experience in leading a team of both researchers and analysts preferably in an ecommerce, tech, banking, advertising or management consulting environment.
+ 
+Statistical knowledge and extreme proficiency in SQL. Comfortable with R, Python and Tableau. Experience with big data technologies (Hadoop/Vertica) is a plus.
+ 
+Strong understanding and implementation experience of predictive modeling algorithms such as regressions, time series, neural networks, clustering, decision trees and heuristic models, with familiarity dealing with tradeoffs between model performance and business needs.
+ 
+Experience combining user research and data science methodologies across multiple products and teams.
+ 
+Experience with research applications pertaining to user experience, marketing, and market insights.
+ 
+Fantastic communication skills that enable you to work cross-functionally with product managers, tech geeks and design gurus, building solid relationships with a diverse set of stakeholders.
+ 
+The ability to convey complex solutions to a less technical person.
+ 
+Bias for action.
+ 
+Advanced degree (MSc/PhD) in Computer Science, Economics, Engineering, Operations Research, Physics or Mathematics/Statistics preferred.
+ 
+ 
+#london #berlin #sydney #melbourne #perth #hongkong #montreal #toronto #vancouver #jakarta #IT #4 #5 
+Equal Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.",Full-time,Other
+16,Data Analyst - Jakarta,KOMPAS GRAMEDIA,3 weeks ago,92 applicants,Entry level,,"Information Technology and Services, Publishing, Computer Software","Job Description
+& requirements
+Job Description
+Data Analyst will work as a team with Data Scientist that will help top management conducting full lifecycle analysis to include requirements, activities, and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.
+ Interpret data, analyse results using statistical techniques and provide ongoing reports.
+ 
+ Develop and implement databases, data collection, systems, data analytics and other strategies that optimize statistical efficiency and quality.
+ 
+ Acquire data from primary or secondary data sources and maintain databases/data systems.
+ 
+ Identify, analyse, and interpret trends or patterns in complex data sets.
+ 
+ Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems.
+ 
+ Work with management to prioritize business and information needs.
+ 
+ Locate and define new process improvement opportunities.
+Minimum Qualifications
+ Data-oriented personality.
+ 
+ Communication Skills: Data analysts are often called to present their findings, or translate the data into an understandable document. You will need to write and speak clearly, easily communicating complex ideas.
+ 
+ Critical Thinking: Data analysts must look at the numbers, trends, and data and come to new conclusions based on the findings.
+ 
+ Attention to Detail: Data is precise. Data analysts have to make sure they are vigilant in their analysis to come to correct conclusions.
+ 
+ Possess at least 
+ one
+ 
+ out
+ 
+ of three
+ skills below: Business: Understanding of our industry/business strategy, customer life cycle, customer acquisition strategy, etc. Analytical: Data analysis, mathematic, statistic, discovering bias, clustering, classification, etc. Technology: Coding, Scripting, Phyton, SQL, No SQL, etc. 
+ 
+ A bachelor degree in Computer Science, Informatics, Information Systems, or relevant field.
+Required Skills
+MySQL Business Analysis Python
+ Data Analyst at Kompas Gramedia
+ is one of the 4,000 opportunities available on Tech in Asia Jobs.
+Browse all jobs or post a job for free
+AD.",Full-time,Information Technology
+17,Data Scientist,FinAccel,3 months ago,56 applicants,Entry level,,"Computer Software, Internet, Financial Services","As a Data Scientist you’ll be part of a team that is working on cutting edge machine learning models. You will work side by side with Analysts and Machine Learning Engineers and take full ownership of your work – from the initial idea-generation phase to the implementation of the final product. Our ideal candidate is result-focused, innovative, has solid quantitative background and a good business understanding.
+We are looking for a Data Scientist who will be:
+Working in a multi-disciplined team where you’ll take full ownership of turning discoveries and ideas into machine learning models.
+Prototyping diverse machine learning models, from credit scoring to recommendation engine.
+Researching & Development on how to improve our models, by using our vast amount and unique set of data.
+Actively contribute to taking Data Science at FinAccel to the next level.
+Minimum Qualifications
+We are excited to welcome dynamic robust Data Scientist who have :
+Minimum 2 years of relevant work experience.
+Masters, PhD or equivalent experience in a quantitative field (i.e). Computer Science, Mathematics, Statistics, Econometrics, Engineering, Artificial Intelligence).
+Capable to build robust end-to-end predictive models using the latest Machine Learning techniques and methodologies.
+Proficiency in Python or R.
+Exposure to RDBMS (i.e. MySQL, PostgreSQL) and No-SQL platforms (i.e. S3).
+Excellent English communication skills.
+Bonus Points (optional) For
+Experience with alternate data to evaluate credit risk.
+Experience in building end-to-end Deep Learning and/or NLP models.",Full-time,"Engineering, Information Technology"
+18,Data Scientist,PT Berlian Sistem Informasi,1 month ago,35 applicants,Entry level,,"Information Technology and Services, Computer Software, Financial Services","Support development, enhancement, evaluate and maintenance of multiple datasets for consistency, completeness, accuracy and reasonableness.
+Interact with customers and other teams to obtain data requirements for new and existing applications.
+Manage the regular report running schedule and process.
+Perform data management activities in accordance with customer, company, contract, and regulatory requirements.
+Develop process improvements for data management activities.
+Perform data analysis and generate data reports on periodic basis for management and customers.
+Present data management updates at internal and customer meetings.
+Minimum Qualifications
+Bachelor’s degree in Management, Information Technology, Technical or relevance major (Prioritized Graduation from Japan University).
+Orientation towards quality and results
+Strong expertise in data, project and time management
+Efficient communication
+Consistent accuracy and attention to detail",Full-time,"Engineering, Information Technology"
+19,Data Engineer,Danone,3 days ago,114 applicants,Not Applicable,,"Consumer Goods, Food & Beverages, Food Production","About The Job
+Data engineers are responsible for finding trends in data sets and developing algorithms to help make raw data more useful to the enterprise. Mainly tasked with transforming data into a format that can be easily analyzed, developing, maintaining, and testing infrastructures for data generation and work closely with data scientists
+ Create and maintain optimal data pipeline architecture and actively participate in design and data model reviews providing constructive feedback to platform owners
+Ensure changes to the data environment are compliant to the architectural standards and collaborate with data governance owners to uncover and define business requirements
+Data Engineering,
+Identify, design, and implement internal process improvements automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Azure or AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Keep our data separated and secure across national boundaries through multiple data centers 
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems
+About You
+Computer Science, Statistics, Informatics, Information Systems or another quantitative field
+5+ years of experience in a Data Engineer role
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Strong Agile project management and organizational skills
+Experience with big data tools Hadoop v2, Spark, Kafka, Hive, HBase etc.
+Experience with relational SQL and NoSQL databases, including Postgres and MongoDb.
+Experience with data pipeline and workflow management tools Azkaban, Luigi, Airflow, etc.
+Experience with both On-Premise Microsoft SQL Server and Azure SQL and Data Services platforms
+Experience with stream-processing systems Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages Python, Java, C++, Scala, etc.
+Experience reading and building data models
+Proficient working in a fully Agile (SCRUM) environment
+Excellent communication and facilitation skills
+Team oriented collaboration skills
+Experience with Power BI preferred
+About Us
+Danone's mission is bringing health through food to as many people as possible and we want to invite people to join the movement for a healthier world. We recognize the power people have to impact the world through their daily choices. Each time wa eat and drink, we vote for the world we want to live in. We believe a healthy body needs healthy food, and healthy food needs a healthy planet and this is what our new signature One Planet One Health embodies.",Full-time,Information Technology
+20,Senior Data Scientist,Lynx Analytics,1 week ago,Be among the first 25 applicants,Associate,,Information Technology and Services,"Founded in 2010, Lynx Analytics is a predictive analytics company run by world-class quantitative marketing scientists and industry-experienced data scientists. Our focus is to become the world's leading telecom analytics solution provider while advancing graph analytics technology.
+Reporting to the CIO, this role is an integral part of the Data Science team. The Senior Data Scientist will have to work on and lead complex data analysis projects using standard modelling and data transformation approaches as well as Lynx's proprietary graph analysis system.
+She/he should be comfortable working with very large data sets residing in different data stores in disparate formats. The role requires the candidate to be strong with hands-on implementation as well have the potential to move fast onto a high growth career trajectory.
+Key Responsibilities Will Include
+ 
+Providing data science services at the clients' location
+ 
+Working closely together with Lynx' and client's teams
+ 
+Preparing presentations, documentations, codes, and databases
+ 
+To Succeed In This Role, You Should Have
+ 
+Industry experience in data mining and/or data science
+ 
+University degree in a technical field (Mathematics, Statistics, Economics, Computer Science, or Engineering)
+ 
+Strong probability theory and statistics knowledge
+ 
+Knowledge of some statistical tools
+ 
+Strong data visualization skills/experience, and experience in infographics
+ 
+Dashboarding and reporting experience
+ 
+Ability to write programs in some programming language (e.g. R/Python).
+ 
+Software Engineering skills to design and implement complex software systems is NOT needed, but the candidate is expected to be able to write simple code to prototype and test analytical ideas
+ 
+Good problem-solving skills
+ 
+Knowledge of RDBMS systems (Oracle, Teradata, MySQL, etc.)
+ 
+Excellent verbal and written communication skills
+ 
+Fluency in English
+ 
+Willingness to travel - Up to 50% travel across the region will be required",Full-time,Other
+23,Senior Data Scientist,None,2 weeks ago,Be among the first 25 applicants,Executive,,"Computer Software, Internet, Financial Services","Company Description
+Ajaib is a financial technology company that provides a modern digital experience for beginners and seasoned investors alike. Our mission is to enable our customers to achieve financial freedom. Financial systems are the backbone of any country's economy and wealth so we bear heavy responsibility for our customers. Our software engineers work on a variety of projects ranging from bleeding-edge innovations in financial systems to exciting consumer products. We never stop learning and we always seek ways to improve. If you want to apply your knowledge and skills to impact millions of lives, join our team.
+Job Description
+As a data scientist, you will have the opportunity to leverage Ajaib’s rich data to develop insights and products that are used by millions of users and propel the growth of our business.
+You will collaborate with a strong team of engineers, product managers and fellow data scientists in defining the frontier of data products in fintech. Data scientists will work on how to evaluate current investor behaviors and develop potential product features
+Work with management to prioritize business data needs and recommend new ways of using data to inform decision-making.
+Perform data visualizations to uncover valuable insights, be able to measure and track product performance.
+Conduct analysis and make recommendations that impact product and business directions.
+ Qualifications
+Bachelor's Degree in mathematics, computer science, statistics, engineering and related major.
+At least 3 years of experience in Data Science roles
+Proficient in Statistics, Data Structuring, Analysis
+Excellent analytical skills & critical thinking, creative problem solving, and English communication
+Strong programming skill (Python, R, or SQL).
+Experience in one of the following is a plus: Tableau, Appsflyer, Clevertap, Google Analytics, Google Data Studio and Google Big Query",Full-time,Other
