@@ -13,7 +13,7 @@ A web scraping tool to gather job information data designed for LinkedIn
 9. Employment type
 10. Job Function
 
-##Keyword Search Tag
+## Keyword Search Tag
 - Senior Data Engineer / Data Engineer
 - Senior Data Scientist / Data Scientist
 - Senior Data Analyst / Data Analyst
