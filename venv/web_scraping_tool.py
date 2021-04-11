@@ -8,11 +8,13 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+start = time.time()
+
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
-driver = webdriver.Chrome("./venv/chromedriver.exe", options=options)
+driver = webdriver.Chrome(options=options)
 
 job_titles, company_names = [], []
 posting_times, number_of_applicants = [], []
@@ -32,11 +34,17 @@ links = ['https://www.linkedin.com/jobs/search?keywords=Data%20Scientist&locatio
 try:
     for link in links:
         driver.get(link)
-        page_per_click = driver.find_elements_by_class_name("result-card__full-card-link")
+        time.sleep(5)
+        # page_per_click = driver.find_elements_by_class_name("result-card__full-card-link")
+        page_per_click = []
+        for i in range(1,21):
+            job_card = driver.find_elements_by_xpath("//li[@data-row='" + str(i) + "']")
+            page_per_click.append(job_card)
+        page_per_click = list(filter(lambda x: x != [], page_per_click))
 
         for i in range(len(page_per_click)):
-            if page_per_click[i].is_displayed():
-                driver.execute_script("arguments[0].click();", page_per_click[i])
+            if page_per_click[i][0].is_displayed():
+                driver.execute_script("arguments[0].click();", page_per_click[i][0])
                 element_present = EC.presence_of_element_located((By.CLASS_NAME, 'details-pane__content--show'))
                 WebDriverWait(driver, 10).until(element_present)
                 show_more = driver.find_elements_by_class_name("show-more-less-html__button")
@@ -123,4 +131,8 @@ dataset.columns =['Job Title', 'Company Name', 'Job Posting Time', 'Number of Ap
                   'Seniority Level', 'Size of Employee', 'Company Industry', 'Detail Description', 
                   'Employment Type', 'Job Function']
 dataset = dataset.drop_duplicates()
-dataset.to_csv(r'.\venv\linkedin_dataset.csv')
+dataset.to_csv(r'C:\Users\ekaap\OneDrive\Documents\linkedin-web-scraping-tool-test\venv\linkedin_dataset.csv')
+
+end = time.time()
+
+print(end-start)
